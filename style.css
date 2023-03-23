@@ -53,7 +53,7 @@ header img{
     padding: 10px 15px;
     border-radius: 25px;
     max-width: 140px;
-    text-align: ;
+    text-align: center;
     font-size: 1em;
     font-weight: 400;
 
@@ -166,10 +166,6 @@ h1 {
 
 .trend-card_info i:last-child {
     color: #ffc017;
-}
-
-.trend-card_info {
-
 }
 
 .title {
